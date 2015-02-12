@@ -1,7 +1,5 @@
 source "https://supermarket.getchef.com"
 
-source "https://supermarket.getchef.com"
-
 group :community do
   cookbook 'jenkins'
   cookbook 'java'
