@@ -1,0 +1,9 @@
+{
+  "name": "prod",
+  "chef_type": "environment",
+  "json_class": "Chef::Environment",
+  "description": "Production Environment",
+  "cookbook_versions": {
+    "sample-cookbook": "= 0.1.0"
+  }
+}

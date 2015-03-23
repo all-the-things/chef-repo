@@ -1,0 +1,9 @@
+default_environments:
+  - dev
+  - prod
+
+environment_groups:
+  all:
+    - dev
+    - prod
+
