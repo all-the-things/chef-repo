@@ -4,7 +4,6 @@
   "json_class": "Chef::Environment",
   "description": "Development Environment",
   "cookbook_versions": {
-    "sample-cookbook": "= 0.1.0"
     "sample-cookbook": "= 0.1.1"
   }
 }
